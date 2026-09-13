@@ -1,0 +1,7 @@
+Project "MonEssai" {
+    Kind: ConsoleApp,
+    Language: Cpp,
+    Files: {
+        "main.cpp"
+    }
+}
