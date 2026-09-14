@@ -1,7 +1,5 @@
 # Compte rendu — Exo 2 : Mesurer avant de croire
 
-*Mea culpa initial corrigé : on ne mélange plus les 286 projets Jenga avec les fichiers source du cours.*
-
 ## 1. Commandes PowerShell exécutées
 ```powershell
 # Brut global
