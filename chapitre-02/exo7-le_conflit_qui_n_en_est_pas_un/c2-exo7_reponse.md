@@ -1,4 +1,4 @@
-﻿Ligne 1 : debut du fichier
+﻿Ligne 1 : MODIFIEE par le clone 1
 Ligne 2
 Ligne 3
 Ligne 4
