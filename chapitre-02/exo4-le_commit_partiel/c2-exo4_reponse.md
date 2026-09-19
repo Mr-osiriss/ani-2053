@@ -9,3 +9,4 @@ Ajoute une pincée de sel pour rehausser le goût sucré.
 
 - Pain
 - Lait
+- Beurre
