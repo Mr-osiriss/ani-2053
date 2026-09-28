@@ -23,7 +23,7 @@ Compilé avec `jenga build`, exécuté avec `jenga run`. En réduisant la fenêt
 
 ```
   ▶  EXECUTION  —  Window.exe
-     C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
+     C:\Ngangoum\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [2026-09-26 20:37:02.578] [INF] [default] [main.cpp:21 in nkmain] -> X = 278
@@ -38,7 +38,7 @@ Test refait sans `minWidth`/`minHeight`. En réduisant la fenêtre jusqu'à la l
 
 ```
 ▶  EXECUTION  —  Window.exe
-     C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
+     C:\Ngangoum\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [2026-09-26 20:46:36.182] [INF] [default] [main.cpp:20 in nkmain] -> X = 176

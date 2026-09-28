@@ -39,7 +39,7 @@ Après plusieurs redimensionnements successifs, le titre affichait à chaque foi
 ## Sortie complète de Jenga
 
 ```
-PS C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow> jenga build
+PS C:\Ngangoum\FirstWindow> jenga build
 
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -85,7 +85,7 @@ Time:           8.61s
 Status:         ✓ SUCCESS
 ════════════════════════════════════════════════════════════════════════════════
 
-PS C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow> jenga run                                                               
+PS C:\Ngangoum\FirstWindow> jenga run                                                               
                  
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -103,7 +103,7 @@ PS C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow> jenga run
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ▶  EXECUTION  —  Window.exe
-     C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
+     C:\Ngangoum\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 

@@ -30,7 +30,7 @@ Testé sans ce bloc : la fenêtre reste ouverte, impossible de la fermer avec la
 ## Compilation
 
 ```
-PS C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow> jenga build
+PS C:\Ngangoum\FirstWindow> jenga build
 
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -80,7 +80,7 @@ Status:         ✓ SUCCESS
 ## Exécution
 
 ```
-PS C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow> jenga run  
+PS C:\Ngangoum\FirstWindow> jenga run  
 
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -98,7 +98,7 @@ PS C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow> jenga run
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ▶  EXECUTION  —  Window.exe
-     C:\Users\BEST-COMPUTER\Desktop\dd\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
+     C:Ngangoum\FirstWindow\Build\Bin\Debug-Windows\Window\Window.exe
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
