@@ -10,10 +10,10 @@ using namespace nkentseu;
 // false et il ne faut surtout pas utiliser "path" ou "color" ensuite.
 static void LogDialogResult(const NkString &nomDialogue, const NkDialogResult &res) {
 	if (!res.confirmed) {
-		logger.Info("[exo9] %s : annule par l'utilisateur", nomDialogue.CStr());
+		logger.Info("[exo9] {} : annule par l'utilisateur", nomDialogue.CStr());
 		return;
 	}
-	logger.Info("[exo9] %s : confirme, path=\"%s\", color=%u",
+	logger.Info("[exo9] {} : confirme, path=\"{}\", color={}",
 				nomDialogue.CStr(), res.path.CStr(), res.color);
 }
 
